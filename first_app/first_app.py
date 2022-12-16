@@ -17,11 +17,12 @@ box_style = {
 }
 
 mobile_box_style = {
-    
+
     "padding": "0.10em",
     "width": 10,
 
 }
+
 
 def desktop():
     return pc.tablet_and_desktop(
